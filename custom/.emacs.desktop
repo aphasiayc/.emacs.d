@@ -1,0 +1,43 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed May 31 12:16:48 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22830 17328 903129 0) (desktop . "208") "cunye@Cuns-iMac.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (environment) (border-color . "#37474f") (frameset--id . "43A0-DC33-15E2-9248") (frameset--mini t . t) (height . 102) (width . 360) (modeline . t) (minibuffer . t) (unsplittable) (left . 2) (top . 4) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Cuns-iMac.local") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 9) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 56) (min-pixel-width . 70) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 63) (min-pixel-height-safe . 14) (min-pixel-width-safe . 14)) leaf (pixel-width . 2551) (pixel-height . 1414) (total-width . 364) (total-height . 101) (normal-height . 1.0) (normal-width . 1.0) (buffer "setup-go.el" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 3 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1314) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/custom/setup-go.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/cunye/.emacs.d/custom/setup-go.el"
+  "setup-go.el"
+  'emacs-lisp-mode
+  '(linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode yas-minor-mode)
+  1314
+  '(1033 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (buffer-file-coding-system . prefer-utf-8-unix))
+  '((mark-ring (1313))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/.emacs.d/loadlocal/go-mode-load.el"
+  "go-mode-load.el"
+  'emacs-lisp-mode
+  '(linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode yas-minor-mode)
+  139
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+

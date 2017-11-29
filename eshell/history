@@ -1,0 +1,128 @@
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+exit
+sh compile.sh 
+cd ~/Documents/projects/shdc/
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+cat dataflow.sh 
+sh dataflow.sh 
+sh dashboard.sh 
+sh dashboard.sh 
+sh dashboard.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+sh dataflow.sh
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh dataflow.sh
+sh compile.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh dataflow.sh
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+dataflow serve --config config/demo.yaml --debug
+cd ~/Documents/projects/shdc/
+sh compile.sh 
+sh compile.sh 
+sh dataflow.sh 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh compile.sh 
+dataflow serve --config config/demo.yaml 
+sh dataflow.sh 
+sh dataflow.sh 
+sh dataflow.sh 
