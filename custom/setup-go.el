@@ -40,11 +40,11 @@
 ;; use in tests files
 (setq flycheck-gometalinter-test t)
 ;; disable linters
-(setq flycheck-gometalinter-disable-linters '("gotype" "gocyclo"))
+;; (setq flycheck-gometalinter-disable-linters '("gotype")) ;;"gocyclo"))
 ;; Only enable selected linters
 (setq flycheck-gometalinter-disable-all nil)
 (setq flycheck-gometalinter-enable-linters '("golint"))
 ;; Set different deadline (default: 5s)
-;; (setq flycheck-gometalinter-deadline "10s")
+(setq flycheck-gometalinter-deadline "10s")
 
 (provide 'setup-go)

@@ -1,128 +1,128 @@
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
 sh compile.sh 
 sh compile.sh 
 sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-exit
-sh compile.sh 
-cd ~/Documents/projects/shdc/
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
+sh guardian.sh
+ls config/
+sh guardian.sh
 sh compile.sh 
 sh compile.sh 
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-cat dataflow.sh 
-sh dataflow.sh 
-sh dashboard.sh 
-sh dashboard.sh 
-sh dashboard.sh 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh compile.sh 
-sh dataflow.sh
-sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh dataflow.sh
+sh guardian.sh
+sh guardian.sh
+cd ~/Documents/projects/ehr/guardian/
 sh compile.sh 
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
-sh dataflow.sh
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
 sh compile.sh 
-dataflow serve --config config/demo.yaml --debug
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+sh compile.sh
+cd ~/Documents/projects/ehr/guardian/
+sh compile.sh 
+sh compile.sh 
+sh guardian.sh
+scp config/guardian.yaml demo:ehr/guardian/../
+sh guardian.sh
+sh guardian.sh
+sh compile.sh 
+sh compile.sh 
+sh guardian.sh
+cat guardian.sh 
+scp guardian.gz demo:ehr/guardian/
+scp docker/guardian.gz  demo:ehr/guardian/
+sh compile.sh 
+sh guardian.sh 
+sh guardian.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh guardian.wiki/
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
+sh guardian.sh
 cd ~/Documents/projects/shdc/
 sh compile.sh 
 sh compile.sh 
-sh dataflow.sh 
 sh compile.sh 
-dataflow serve --config config/demo.yaml 
+cd ~/Documents/projects/shdc/
 sh compile.sh 
-dataflow serve --config config/demo.yaml 
 sh compile.sh 
-dataflow serve --config config/demo.yaml 
-sh dataflow.sh 
-sh dataflow.sh 
-sh dataflow.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+cd ~/Documents/projects/shdc/
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
