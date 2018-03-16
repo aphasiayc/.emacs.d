@@ -3,7 +3,10 @@
 
 (require 'package)
 (add-to-list 'package-archives
-         '("melpa" . "http://melpa.org/packages/") t)
+             '("melpa" . "http://melpa.org/packages/") t)
+
+(add-to-list 'package-archives
+             '("melpa-stable" . "https://stable.melpa.org/packages/"))
 
 (package-initialize)
 (when (memq window-system '(mac ns x))
@@ -27,6 +30,7 @@
   (require 'setup-helm-gtags))
 (require 'setup-editing)
 (require 'setup-go)
+(require 'setup-python)
 
 ;; function-args
 ;; (require 'function-args)
@@ -40,7 +44,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (react-snippets bison-mode json-mode markdown-mode yaml-mode flycheck-yamllint zygospore helm-gtags helm yasnippet ws-butler volatile-highlights use-package undo-tree iedit dtrt-indent counsel-projectile company clean-aindent-mode anzu))))
+    (elpy react-snippets bison-mode json-mode markdown-mode yaml-mode flycheck-yamllint zygospore helm-gtags helm yasnippet ws-butler volatile-highlights use-package undo-tree iedit dtrt-indent counsel-projectile company clean-aindent-mode anzu))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

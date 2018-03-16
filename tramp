@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <18/01/24 10:37:36 /Users/cunye/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <18/03/09 16:04:54 /Users/cunye/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -21,7 +21,7 @@
   ("readlink" "\\readlink")
   ("git" "\\git"))
  (["ssh" nil "demo" nil nil]
-  ("uname" "Linux 4.4.0-109-generic")
+  ("uname" "Linux 4.4.0-116-generic")
   ("locale" "LC_ALL=en_US.utf8")
   ("test" "test")
   ("remote-path"
@@ -37,7 +37,11 @@
   ("gid-integer" 1000)
   ("gid-string" "wise")
   ("readlink" "\\readlink")
-  ("git" "\\git"))
+  ("git" "\\git")
+  ("uid-integer" 1000)
+  ("tmpdir" "/tmp")
+  ("touch-t" t)
+  ("touch" "\\touch"))
  (["ssh" nil "mssql" nil nil]
   ("uname" "Linux 4.4.0-101-generic")
   ("locale" "LC_ALL=en_US.utf8")

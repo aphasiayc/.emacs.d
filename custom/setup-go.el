@@ -7,13 +7,13 @@
 (use-package go-mode
   :init)
 
-;; <F5> shortcut keybinding
 (add-hook 'before-save-hook 'gofmt-before-save)
 
+;; <F5> shortcut keybinding
 (defun go/run ()
   "Run current buffer"
   (interactive)
-  (shell-command (concat "go test -cover")))
+  (shell-command (concat "go test -cover -coverprofile=coverage.out; go tool cover -html=coverage.out")))
 
 (add-hook 'go-mode-hook 'hs-minor-mode)
 

@@ -1,0 +1,3 @@
+(
+ (:id "sha1:ccfd2cc2a08c89a9b10969be8c1e926954d53e28" :fingerprint "sha1:10:cc:55:d1:85:25:e4:13:aa:6d:77:b7:df:36:50:fd:3e:e8:bd:6a" :host "stable.melpa.org:443" :conditions (:insecure :unknown-ca :invalid))
+)

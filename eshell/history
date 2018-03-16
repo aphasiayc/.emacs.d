@@ -1,128 +1,128 @@
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh guardian.sh
-ls config/
-sh guardian.sh
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh guardian.sh
-sh guardian.sh
-cd ~/Documents/projects/ehr/guardian/
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-sh compile.sh
-cd ~/Documents/projects/ehr/guardian/
-sh compile.sh 
-sh compile.sh 
-sh guardian.sh
-scp config/guardian.yaml demo:ehr/guardian/../
-sh guardian.sh
-sh guardian.sh
-sh compile.sh 
-sh compile.sh 
-sh guardian.sh
-cat guardian.sh 
-scp guardian.gz demo:ehr/guardian/
-scp docker/guardian.gz  demo:ehr/guardian/
-sh compile.sh 
-sh guardian.sh 
-sh guardian.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh guardian.wiki/
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-sh guardian.sh
-cd ~/Documents/projects/shdc/
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-cd ~/Documents/projects/shdc/
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-cd ~/Documents/projects/shdc/
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
+git add .
+git commit -m "Update Hospital"
+git push
+cd ..
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+cd ~/Documents/projects/ehr/guardian/guardian.wiki/
+git add .
+git commit -m "Update Home"
+git push
+git add .
+git commit -m "Update Home"
+git push
+git add .
+git commit -m "Fix typo"
+git push
+git add .
+git commit -m "Update Hospital"
+git push
+git add .
+git commit -m "Update Hospital"
+git push
+git add .
+git commit -m "Fix type"
+git push
+git add .
+git commit -m "Update Hospital"
+git push
+git add .
+git commit -m "Update home"
+git push
+git add .
+git commit -m "Update home"
+git push
+git add .
+git commit -m "Update home"
+git push
+cd ..
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+sh compile.sh 
+git add .
+git commit -m "Update home"
+git push
+git add .
+git commit -m "Update home"
+git push
+cd ~/Documents/projects/ehr/
+ls
+mkdir archive
+cd archive/
+cat ../guardian/compile.sh 
+echo 'go install code.highwho.com/ehr/archive' > compile.sh
+ls
+sh compile.sh 
+cd /Users/cunye/go/src/code.highwho.com/ehr/archive
+/Users/cunye/go/src/code.highwho.com/ehr/
+ls
+cd /Users/cunye/go/src/code.highwho.com/ehr/
+echo 'go install code.highwho.com/his/ehr/archive' > compile.sh
+cat compile.sh 
+sh compile.sh 
+cd ~/go/src/code.highwho.com/his/ehr/archive/
+ls
+cd archive/
+ls
+cat cover.out 
+go tool cover -html=cover.out -o coverage.html
+ls
+rm coverage.html 
+ls
+go tool cover -html=coverage.out
+go tool cover -html=coverage.out
+cd -
+cd ~/Documents/projects/ehr/archive/
+sh compile.sh 
+mkdir storage
+ls storage/
+rm storage/test 
+rm storage/test 
+rm storage/test 
+cd ../guardian/
+sh compile.sh 
+cd guardian.wiki/
+git add .
+git commit -m "Update Hospital"
+git push
+cd ../../archive/
+ls
+ls storage/
+ls storage/test 
+cat storage/test 
+exit
+cd ~/Documents/projects/ehr/archive/
+ls
+ls
+rm storage/test 
+ls
+ls storage/
+ls -hl storage/
+rm storage/test 
+ls storage/
+ls -hl storage/test 
+cd ../guardian/guardian.wiki/
+git add .
+git commit -m "Update"
+cd ../../archive/
+rm storagestest
+rm storage/test 
+jupyter notebook
+jupyter notebook
+jupyter notebook
+ezit
+exit
+cd Desktop/
+exit
