@@ -42,6 +42,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(ein:notebook-modes (quote (ein:notebook-multilang-mode)))
  '(package-selected-packages
    (quote
     (elpy react-snippets bison-mode json-mode markdown-mode yaml-mode flycheck-yamllint zygospore helm-gtags helm yasnippet ws-butler volatile-highlights use-package undo-tree iedit dtrt-indent counsel-projectile company clean-aindent-mode anzu))))
