@@ -1,0 +1,151 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Jul 17 11:47:29 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23373 26321 810458 0) (desktop . "208") "cunye@Cuns-MacBook-Pro.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (horizontal-scroll-bars) (foreground-color . "#ffffff") (background-color . "#263238") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 1) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (scroll-bar-height . 0) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . dark) (cursor-color . "#ff9800") (environment) (border-color . "#37474f") (frameset--id . "084C-6374-852F-DF0D") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (display . "Cuns-MacBook-Pro.local") (explicit-name) (tool-bar-position . top) (visibility . t) (height . 74) (width . 235) (left . 0) (top . 5)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 18) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 56) (min-pixel-width . 140) (min-pixel-height-ignore . 28) (min-pixel-width-ignore . 126) (min-pixel-height-safe . 14) (min-pixel-width-safe . 28)) hc (pixel-width . 1676) (pixel-height . 1022) (total-width . 239) (total-height . 73) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 836) (pixel-height . 1022) (total-width . 119) (total-height . 73) (normal-height . 1.0) (normal-width . 0.5) (buffer "data.py" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 3 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1155) (start . 1))) (leaf (last . t) (pixel-width . 840) (pixel-height . 1022) (total-width . 120) (total-height . 73) (normal-height . 1.0) (normal-width . 0.5) (buffer "mnist_data.py" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 3 t nil 0 nil) (vscroll . 0) (dedicated) (point . 2485) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("argumentparad" "add_a" "data_d" "String" "string" "add" "lookup" "closest" "lookup" "lo" "closest" "lookup" "add" "logd" "initdone" "closereq"))
+(setq regexp-search-ring nil)
+(setq register-alist (list (list "zygospore-windows-time-machine" "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,nil (get-buffer ," *temp*-209148")))) mk)) (list "zygospore-windows-time-machine" "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,nil (get-buffer ," *temp*-209148")))) mk)) (list "zygospore-windows-time-machine" "Unprintable entity" (let ((mk (make-marker))) (add-hook 'desktop-delay-hook `(lambda nil (set-marker ,mk ,nil (get-buffer ," *temp*-209148")))) mk))))
+(setq file-name-history '("~/Documents/fetal-heart/batch-1/input/outlier/remove_zeros.py" "~/py/tutorials/estimator/mnist_data.py" "~/py/tutorials/estimator/cnn_mnist.py" "~/py/tutorials/estimator/custom.py" "~/Documents/fetal-heart/batch-1/input/classified/README.md" "~/go/src/blockchain/.gitignore" "~/Documents/fetal-backups/test/fetal_heart.py" "~/Documents/fetal-backups/fetal-heart/demo/fhr.py" "~/Documents/fetal-backups/fetal-heart/demo/baseline.py" "~/Documents/fetal-backups/fetal-heart/demo/demo_data.py" "~/Documents/fetal-heart/batch-1/input/classified/#README.md#" "~/py/models/official/mnist/dataset.py" "~/Documents/fetal-backups/fetal-heart/demo/plot_util.py" "~/Documents/fetal-heart/batch-1/input/pristine/README.md" "~/Documents/fetal-heart/batch-1/input/README.md" "~/Documents/fetal-heart/batch_1/input/README.md" "~/Documents/fetal-heart/input/batch_1/README.md" "~/Documents/fetal-heart/input/200803/README.md" "~/py/tutorial/estimator/iris_data.py" "~/Documents/tf-models/official/mnist/mnist.py" "~/Documents/tf-models/official/mnist/example3.png" "~/Documents/tf-models/official/mnist/dataset.py" "~/py/tutorial/estimator/premade.py" "~/Documents/tutorial/estimator/inputs/mnist_train_labels" "~/py/tutorial/estimator/custom.py" "~/Documents/tf-models/tutorials/image/mnist/convolutional.py" "~/Documents/tf-models/" "~/Documents/tf-models/samples/core/get_started/custom_estimator.py" "~/Documents/tf-models/samples/core/get_started/iris_data.py" "~/Documents/tf-models/samples/core/get_started/premade_estimator.py" "~/go/src/blockchain/tx.go" "~/go/src/blockchain/block.go" "~/maven/ChainApi/src/test/java/stellar/TestStellar.java" "~/go/src/blockchain/p2p/router/node_test.go" "~/go/src/blockchain/p2p/router/node.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/node_test.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/node.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/table_test.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/database.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/udp.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/server.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/peer.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/rlpx.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/dial.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discv5/net.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discv5/ticket.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discv5/table.go" "~/go/src/github.com/ethereum/go-ethereum/crypto/crypto.go" "~/go/src/blockchain/p2p/crypto/crypto.go" "~/.emacs.d/custom/setup-go.el" "~/go/src/github.com/ethereum/go-ethereum/crypto/sha3/keccakf.go" "~/go/src/github.com/ethereum/go-ethereum/p2p/discover/table.go" "~/Downloads/rippled/build/regtest.cfg" "~/maven/ChainApi/src/test/java/ripple/TestRipple.java" "~/maven/ChainApi/src/main/java/ripple/Info.java" "~/maven/ChainApi/src/main/java/eth/EthApi.java" "~/maven/ChainApi/src/main/java/ripple/RippleApi.java" "~/maven/ChainApi/src/main/java/bitcoin/TestBitcoin.java" "~/maven/ChainApi/src/main/java/bitcoin/AddressModel.java" "~/maven/ChainApi/.gitignore" "~/maven/ChainApi/pom.xml" "~/Downloads/rippled/.gitignore" "~/Downloads/rippled/cfg/rippled-example.cfg" "~/maven/ChainApi/src/main/java/eth/TestEth.java" "~/maven/ChainApi/src/main/java/bitcoin/BitCoinApi.java" "~/Downloads/rippled/build/rippled-example.cfg" "~/Desktop/懱心懮駪经懲鴳络懩型懝貞键懘鷳码.py" "~/Desktop/懱心懮駪经懲鴳络懩型懝貞键懘鷳码.txt" "~/maven/ChainApi/src/main/java/model/BlockInfo.java" "~/maven/ChainApi/src/main/java/omni/OmniApi.java" "~/maven/ChainApi/src/main/java/ripple/TestRipple.java" "~/go/src/github.com/ethereum/go-ethereum/p2p/message.go" "~/go/src/github.com/Yawning/chacha20/README.md" "~/.emacs.d/custom/setup-java.el" "~/java/src/tutorial/api/SimpleTimeClient.java" "~/go/src/blockchain_go/transaction.go" "~/go/src/blockchain_go/cli_send.go" "~/go/src/blockchain/state.go" "~/go/src/blockchain_go/cli_printchain.go" "~/go/src/blockchain_go/cli_createblockchain.go" "~/go/src/blockchain/cli.go" "~/go/src/blockchain_go/cli.go" "~/go/src/blockchain/chain.go" "~/go/src/blockchain_go/block.go" "~/go/src/blockchain_go/blockchain.go" "~/go/src/blockchain/util.go" "~/go/src/blockchain_go/server.go" "~/go/src/github.com/ethereum/go-ethereum/eth/downloader/downloader.go" "~/go/src/github.com/ethereum/go-ethereum/eth/backend.go" "~/go/src/github.com/ethereum/go-ethereum/ethereum.go" "~/Desktop/ChainApi/src/main/java/model/BlockInfo.java" "~/.emacs.d/custom/setup-python.el" "~/java/src/tutorial/hello/Hello.java" "~/go/src/blockchain/pow.go" "~/Desktop/ChainApi/src/main/java/bitcoin/AddressModel.java" "~/Desktop/ChainApi/src/main/java/eth/EthApi.java" "~/Desktop/ChainApi/src/main/java/eth/TestEth.java" "~/Desktop/ChainApi/src/main/java/bitcoin/TestBitcoin.java" "~/Desktop/ChainApi/src/main/java/bitcoin/BitCoinApi.java" "~/java/tutorial/src/hello_world/HelloWorld.java"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/Users/cunye/py/fetal-heart/batch-1/data.py"
+  "data.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1155
+  '(40 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (40 40 40 261 117 690 594 40 40 40 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 77 99 1 40 40 40 40 1 1 40 40 40 40 40 25 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 40 233 89 89 233 328 405 628 628 628 628 594 594 690 724 724 40 40 40 40 40 117 261 295 817 40 40 90 89 628 724 428 751 817 915 1084 936 916 1085 1 1 505 117 25 1155))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/py/tutorials/estimator/mnist_data.py"
+  "mnist_data.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  2485
+  '(56 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (255 84 80 1405 1275 80 81 56 56 1721 2485))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/py/tutorials/estimator/cnn_mnist.py"
+  "cnn_mnist.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1222
+  '(2936 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (2424 1222))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/Documents/fetal-heart/batch-1/input/split/split_fix.py"
+  "split_fix.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1639
+  '(1264 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1844 1731 647 816 790 385 98 63 20 81 172 97 337 36 380 380 217 184 756 647 647 647 647 647 756 756 790 756 982 756 757 815 816 816 816 816 507 526 896 910 816 1183 1205 1214 1264 1157 1359 982 1360 1152 1263 1222 1222 1160 1214 1263 1264 1264 1360 325 1615 982 756 700 552 552 603 1615 1777 603 1958 1777 1777 1777 1958 1958 1958 1777 1615 1757 1263 1183 1188 1204 1815 1945 1957 1958 247 288 852 864 910 896 902 1152 920 908 982 981 982 982 920 1056 1078 1078 1205 1205 1126 1205 1263 1381 1381 1431 1777 1615 1957 1731 1827 1832 1958 1844 1844 1891 1615 1690 1264 1690 1721 1690 1615 1264 1264 1264 1264 1361 1400 1410 1452 1521 1615 1647 1659 1647 1659 1626 1626))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/py/fetal-heart/batch-1/demo.py"
+  "demo.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1411
+  '(1 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1 1 1 1 1 49 49 49 49 49 49 4 4 49 12 44 49 96 133 181 459 518 65 561 692 749 620 786 620 692 694 749 848 848 939 992 993 508 1128 1150 1244 1322 465 1364 1383 221 154 1375 591 1375 266 216 154 267 1411 1411))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/py/tutorials/estimator/custom.py"
+  "custom.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  423
+  '(1031 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1424 1351 1351 907 74 1133 238 423))))
+
+(desktop-create-buffer 208
+  "/usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/argparse.py"
+  "argparse.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  949
+  '(23309 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (45574 18785 18785 45574 40045 43217 44742 47615 3317 25442 949))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/Documents/fetal-heart/batch-1/input/classified/to_csv.py"
+  "to_csv.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  320
+  '(1239 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1282 1230 1273 1858 341 158 1132 1075 1715 1159 709 802 597 597 555 597 1003 60 555 1715 1714 1370 1375 60 1714 1715 1715 60 1359 1715 1714 1715 1714 1715 1715 1357 1359 1714 60 60 112 112 549 1715 1370 112 1370 1715 487 1370 1715 499 499 112 112 112 112 112 153 153 1715 1715 549 550 511 1715 190 1715 1605 550 1605 1413 1612 1715 1690 511 190 1715 550 1414 1 1 1434 1413 1414 1414 1458 1688 1414 1414 1414 1414 1508 1713 1414 1442 1715 1448 1414 1422 1 1 1508 1714 1715 1357 550 555 597 550 1715 1715 662 662 672 672 550 672 1357 1357 693 1357 737 1 1 60 25 965 970 970 1003 1003 995 1003 1003 737 784 755 775 784 995 995 819 820 1 832 832 832 863 832 865 865 864 1003 1003 1003 1003 1003 1272 1357 481 1 1715 481 10 25 1368 1400 755 737 865 845 555 555 555 671 703 666 555 597 597 555 597 555 597 555 555 597 555 574 555 574 574 574 582 574 597 574 617 574 650 672 802 709 802 708 802 737 709 802 718 738 865 941 941 263 1282 819 516 820 287 820 1146 1159 1193 1166 1193 865 970 970 865 1162 904 970 940 1414 1715 383 300 300 1003 1370 1371 1371 1715 1715 1715 1715 534 1003 1033 1060 1798 1002 1003 1047 1054 1003 1073 1075 1073 1121 1121 1060 1060 1054 1060 1060 1073 1059 1059 1059 1060 1508 1605 1815 1804 1799 1815 1857 1282 1330 1691 1331 1691 1331 941 1282 1349 1326 1414 1858 1074 1021 543 1414 1414 1414 213 1414 1442 1508 1415 1415 1415 1441 1508 1701 1414 1612 1752 158 341 1858 1858 1458 1458 1488 1458 1426 1458 1505 1458 1508 1522 1338 1034 383 389 396 404 442 454 1217 1218 1273 1273 1282 1230 1282 1230 1282 453 1356 320))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/Documents/fetal-heart/batch-1/input/merged/merge.py"
+  "merge.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1170
+  '(732 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (326 237 798 748 798 798 1555 651 1482 1555 1555 1555 1555 1556 1556 1556 1556 1556 1556 23 1556 1556 54 428 394 428 428 428 428 428 526 428 428 486 510 1556 1556 1372 1556 1556 1556 1556 1556 526 1556 651 1 23 410 430 436 428 1556 1556 23 1372 54 289 295 326 1416 1416 1377 1411 1416 1556 1556 1402 1414 1556 394 394 526 408 574 1556 1556 1556 89 295 89 1556 1416 295 1416 1556 1372 1415 1416 1416 1416 1416 408 574 1556 1556 1556 1416 410 428 470 465 526 526 574 531 531 537 549 574 564 1411 1402 1414 1411 1556 1416 1416 419 1556 394 1416 1556 1556 1556 1556 408 1556 1556 1556 1416 1482 1482 1556 1556 1556 1556 1556 1556 1556 1556 38 1556 1556 394 1416 1416 1556 1482 1556 1556 1556 1556 1556 1556 1556 22 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1556 1482 1555 1482 1555 1556 1556 1556 1556 1556 1556 1555 1556 1556 1556 1556 1556 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1413 1555 1555 89 431 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1555 1482 1555 586 598 651 1416 598 1482 1430 1482 1482 616 616 651 1493 1482 651 658 1555 798 959 969 611 1493 1416 90 1455 1493 731 731 798 798 748 797 798 798 782 961 1533 1533 1083 1206 1223 832 832 1142 235 324 324 90 90 90 1229 692 1595 1089 1048 864 1224 762 773 1205 1224 1268 1205 1224 762 1482 1482 669 732 732 1314 1356 1170))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/py/models/official/mnist/dataset.py"
+  "dataset.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1812
+  '(1976 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1976 1812))))
+
+(desktop-create-buffer 208
+  "/Users/cunye/Documents/fetal-backups/fetal-heart/demo/plot_util.py"
+  "plot_util.py"
+  'python-mode
+  '(eldoc-mode linum-mode override-global-mode flycheck-mode company-mode projectile-mode helm-mode volatile-highlights-mode undo-tree-mode ws-butler-mode anzu-mode elpy-mode flymake-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((show-trailing-whitespace . 1) (tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+

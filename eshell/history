@@ -1,57 +1,4 @@
 git add .
-git commit -m "Update Hospital"
-git push
-cd ..
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-cd ~/Documents/projects/ehr/guardian/guardian.wiki/
-git add .
-git commit -m "Update Home"
-git push
-git add .
-git commit -m "Update Home"
-git push
-git add .
-git commit -m "Fix typo"
-git push
-git add .
-git commit -m "Update Hospital"
-git push
-git add .
-git commit -m "Update Hospital"
-git push
-git add .
-git commit -m "Fix type"
-git push
-git add .
-git commit -m "Update Hospital"
-git push
-git add .
-git commit -m "Update home"
-git push
-git add .
-git commit -m "Update home"
-git push
-git add .
-git commit -m "Update home"
-git push
-cd ..
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-sh compile.sh 
-git add .
 git commit -m "Update home"
 git push
 git add .
@@ -125,4 +72,57 @@ jupyter notebook
 ezit
 exit
 cd Desktop/
+exit
+git add .
+git commit -m "Update plot"
+python3 cnn_mnist.py 
+python3 cnn_mnist.py 
+python3 cnn_mnist.py 
+python3 cnn_mnist.py 
+exit
+go install bitcoin-demo
+bitcoin-demo 
+go install bitcoin-demo
+bitcoin-demo 
+bitcoin-demo 
+go install bitcoin-demo
+bitcoin-demo 
+go install bitcoin-demo
+bitcoin-demo 
+cd ~/Documents/
+mkdir bitcoin-demo
+cd bitcoin-demo/
+go install bitcoin-demo
+go install bitcoin-demo
+go install bitcoin-demo
+bitcoin-demo 
+bitcoin-demo add-block "send	me 1 coin"
+bitcoin-demo add-block -data "send	me 1 coin"
+bitcoin-demo add-block -data "send me 1 coin"
+bitcoin-demo add-block -data "send me 2 coins"
+bitcoin-demo print-chain
+go install bitcoin-demo
+bitcoin-demo print-chain
+go install bitcoin-demo
+go install bitcoin-demo
+go install bitcoin-demo
+go install bitcoin-demo
+exit
+cd ../../..
+cd ..
+mvn compile
+exit
+cd ..
+ls
+ipython
+python3
+clear
+
+ls
+python3
+python3
+cd ../../../../..
+cd ChainApi/
+mvn -DTest=TestStellar#testCreateAccount test
+python3
 exit

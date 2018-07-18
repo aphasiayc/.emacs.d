@@ -1,10 +1,9 @@
 (use-package elpy
   :ensure t
-  :disabled
   :init
   (with-eval-after-load 'python
     (elpy-enable)
-    (elpy-use-ipython)
+    (setq elpy-rpc-python-command "python3")
     (delete 'elpy-module-highlight-indentation elpy-modules)))
 
 (use-package py-autopep8)
